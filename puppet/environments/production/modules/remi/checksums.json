@@ -1,0 +1,18 @@
+{
+  "CHANGELOG.md": "7d473b1e37c75eb7706b4a7c3ca518c8",
+  "Gemfile": "ead148d9de090ddd344acb4c1e96f9b2",
+  "README.md": "85daf0f49527c18e4f6c14211ed607c2",
+  "Rakefile": "d3231aabfc54911f3315d66760a941da",
+  "files/RPM-GPG-KEY-remi": "3abb4e5a7b1408c888e19f718c012630",
+  "manifests/init.pp": "a3a8a9c983b8a372d20b234d8ec3e8de",
+  "manifests/rpm_gpg_key.pp": "8b8c6bd57104481ea27ad6c0f88d6100",
+  "metadata.json": "66f9c62aadeac6b6f56a184fa01fb943",
+  "spec/acceptance/class_spec.rb": "e4274dcc1d98de61d37bfe83cdfbb39c",
+  "spec/acceptance/nodesets/centos6.yml": "644d7eda28c6c15c198ea1b81f7fd755",
+  "spec/acceptance/nodesets/centos7.yml": "832f799b9b47e577bf21f51ccf456348",
+  "spec/classes/init_spec.rb": "b5a113e0b6fbf506e74bd3f44fb7b304",
+  "spec/classes/rpm_gpg_key_spec.rb": "67e6000ee80bd6621847c9c91125f781",
+  "spec/spec_helper.rb": "2f22a7d00fbeeb99f6c30b02944b4afa",
+  "spec/spec_helper_acceptance.rb": "2d325428e00d119cbcb2bb244200a172",
+  "tests/init.pp": "a5f32b3c020e590eaece2aabdeaab083"
+}

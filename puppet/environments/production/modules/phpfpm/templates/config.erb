@@ -1,0 +1,11 @@
+[<%= @title %>]
+listen = <%= @listen %>
+<%- if @listen_type == 'sock' -%>
+listen.owner = <%= @listen_owner %>
+listen.group = <%= @listen_group %>
+listen.mode = <%= @listen_mode %>
+<%- end -%>
+user = <%= @user %>
+group = <%= @group %>
+pm = static
+pm.max_children = 5
